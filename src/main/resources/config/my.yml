@@ -1,5 +1,5 @@
 prefix:
-  name:
+  name: demo
   list:
   - name: tech
     key: 123

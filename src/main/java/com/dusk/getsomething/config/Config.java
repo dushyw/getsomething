@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-@ConfigurationProperties
+@ConfigurationProperties(prefix = "my")
 public class Config {
     private List<String> list = new ArrayList<>();
 
