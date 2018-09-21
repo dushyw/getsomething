@@ -27,6 +27,7 @@ public class HelloWorld {
             System.out.println(str);
         }
         System.out.println(myconfig.getName());
+        System.out.println(myconfig.getUserName());
         return  "Hello";
     }
 }
